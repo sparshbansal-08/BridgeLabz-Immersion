@@ -5,6 +5,7 @@ public class PowerCalc {
         Scanner input = new Scanner(System.in);
 
 
+        
         System.out.print("Enter the base: ");
         double base = input.nextDouble();
 
