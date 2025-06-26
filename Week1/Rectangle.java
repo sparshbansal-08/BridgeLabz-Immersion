@@ -12,6 +12,7 @@ public class Rectangle {
         double perimeter = 2 * (length + width);
         System.out.printf("The perimeter of the rectangle is: %.2f\n", perimeter);
 
+        
         input.close();
     }
 }
