@@ -8,6 +8,7 @@ public class SI {
         System.out.print("Enter the Principal amount: ");
         double principal = input.nextDouble();
 
+        
         System.out.print("Enter the Rate of interest: ");
         double rate = input.nextDouble();
 
